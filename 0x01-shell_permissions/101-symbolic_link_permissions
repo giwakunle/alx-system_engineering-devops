@@ -1,0 +1,4 @@
+
+
+#!/bin/bash
+chown -h vncent:staff _hello
